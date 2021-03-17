@@ -1,4 +1,4 @@
-# Olá, Hi there, Hola!  👋
+# Olá, Hi there, Hola!  🎯
 
 ## Seja muito bem-vindo, Wecolme, Bienvenido.  
 
@@ -7,6 +7,6 @@
 
 - 📚  Atualmente aluno da Fatec Zona Sul; 
 - 🇧🇷  Brasileiro, piauense;
-- 🎯 19 anos;  
+- **19** anos;  
 - 📖 Estou aprendendo a ser um desenvolvedor; 
 - 😊 Aceito feedbacks.  
