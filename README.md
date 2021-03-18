@@ -1,5 +1,10 @@
 # Olá, Hi there, Hola!  🎯
 
+
+![19-computer-programming_hacker-male-asian-3-256](https://user-images.githubusercontent.com/67933145/111559527-7ccf1d80-876f-11eb-9514-c24670313d1e.png)
+
+
+
 ## Seja muito bem-vindo, Wecolme, Bienvenido.  
 
 
