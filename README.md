@@ -11,8 +11,8 @@
 
 - 📚  Atualmente aluno da Fatec Zona Sul; 
 - 🇧🇷  Brasileiro, piauense;
-- **19** anos;  
-- 📖 Estou aprendendo a ser um desenvolvedor; 
+- **20** anos;  
+- 📖 Sempre buscando novas oportunidades; 
 - 😊 Aceito feedbacks.  
 
 *** 
